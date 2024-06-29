@@ -7,7 +7,7 @@
 import assemblyai as aai
 
 # Replace with your API key
-aai.settings.api_key = "bd590824e58047e095e284f375d410b7"
+aai.settings.api_key = "ENTER_YOUR_API"
 
 # URL of the file to transcribe
 FILE_URL = "./static/podcast.mp3"
