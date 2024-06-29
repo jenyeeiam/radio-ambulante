@@ -1,0 +1,7 @@
+transcript.txt
+ai_transcript.txt
+transcription.json
+words.json
+radio/*
+__pycache__/*
+static/audio/*
